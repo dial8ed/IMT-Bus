@@ -1,0 +1,61 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="BA52799C-EA4C-4A04-A023-1FC826FBDEEC/d:Commands/f:RegisterNewOrganizationRequest.cs" caret="600" fromTop="19" />
+    <File id="BA52799C-EA4C-4A04-A023-1FC826FBDEEC/d:Commands/f:RegisterNewOrganizationResponse.cs" caret="431" fromTop="14" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/f:NotificationService.cs" caret="718" fromTop="29" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Notifiers/f:IDataChangedNotifier.cs" caret="279" fromTop="12" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:DataChangedListeners/f:IDataChangedListener.cs" caret="155" fromTop="6" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Container/d:StructureMap/d:Registries/f:DataChangedListenerRegistry.cs" caret="0" fromTop="0" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Container/d:StructureMap/d:Registries/f:DataChangedNotifierRegistry.cs" caret="0" fromTop="0" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Container/d:StructureMap/f:StructureMapBootstrapper.cs" caret="273" fromTop="9" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Container/f:IContainer.cs" caret="0" fromTop="0" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/f:DataSyncEndpoint.cs" caret="379" fromTop="11" />
+    <File id="7AA9353B-C814-4F49-9FDA-E4EC4A8AD150/f:App.config" caret="900" fromTop="15" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/f:WorkerEndpoint.cs" caret="453" fromTop="15" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Notifiers/f:SqlDependencyNotifier.cs" caret="1594" fromTop="48" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:OrderDetailsParser.cs" caret="1464" fromTop="39" />
+    <File id="BA52799C-EA4C-4A04-A023-1FC826FBDEEC/d:Commands/f:IOrderReceived.cs" caret="214" fromTop="8" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Notifiers/f:OrderCreatedNotifier.cs" caret="1501" fromTop="36" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:BillingEntityExtensions.cs" caret="1816" fromTop="40" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:DataChangedListeners/f:OrderReceivedListener.cs" caret="447" fromTop="16" />
+    <File id="7AA9353B-C814-4F49-9FDA-E4EC4A8AD150/f:MessageGateway.cs" caret="341" fromTop="12" />
+    <File id="7AA9353B-C814-4F49-9FDA-E4EC4A8AD150/f:PublisherEndpoint.cs" caret="0" fromTop="0" />
+    <File id="BA52799C-EA4C-4A04-A023-1FC826FBDEEC/d:Entities/f:Order.cs" caret="848" fromTop="23" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/f:App.config" caret="1210" fromTop="21" />
+    <File id="6307C0C7-AEF4-473E-9D99-44E2E08D1BF2/f:Program.cs" caret="219" fromTop="14" />
+    <File id="63887443-4FC4-4D3D-BEC5-CE15D3F41EB9/f:SubDomain.cs" caret="423" fromTop="19" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="1427" fromTop="23" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/f:App.config" caret="1832" fromTop="15" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="1889" fromTop="18" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:BillingEntityExtensions.cs" caret="1793" fromTop="29" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:OrderDetailsParser.cs" caret="1410" fromTop="27" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="1811" fromTop="19" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:DataChangedListeners/f:OrderReceivedListener.cs" caret="67" fromTop="1" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:DataChangedListeners/f:OrderReceivedListener.cs" caret="582" fromTop="20" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="964" fromTop="15" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="1507" fromTop="26" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="828" fromTop="16" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:BillingEntityExtensions.cs" caret="743" fromTop="20" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:BillingEntityExtensions.cs" caret="370" fromTop="11" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:BillingEntityExtensions.cs" caret="673" fromTop="17" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:BillingEntityExtensions.cs" caret="1075" fromTop="22" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:BillingEntityExtensions.cs" caret="1404" fromTop="25" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:Helpers/f:BillingEntityExtensions.cs" caret="1793" fromTop="30" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="1273" fromTop="24" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="105" fromTop="3" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Notifiers/f:OrderCreatedNotifier.cs" caret="401" fromTop="11" />
+    <File id="EE22964C-499B-437D-8904-7425A414B57D/d:Notifiers/f:OrderCreatedNotifier.cs" caret="797" fromTop="16" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="2630" fromTop="57" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="1887" fromTop="26" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="658" fromTop="22" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="2716" fromTop="41" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="2102" fromTop="16" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="1510" fromTop="24" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/f:App.config" caret="2169" fromTop="35" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/f:App.config" caret="1214" fromTop="16" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="2532" fromTop="37" />
+    <File id="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993/d:MessageHandlers/f:OrderReceived.cs" caret="2515" fromTop="33" />
+  </RecentEdits>
+</RecentFiles>

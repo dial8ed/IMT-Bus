@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="BA52799C-EA4C-4A04-A023-1FC826FBDEEC" ModuleId="IMT.Messages" />
+  <Module PersistentId="EAEC9FE9-AEFB-4AAD-9899-6F3D928A0993" ModuleId="IMT.Worker" />
+  <Module PersistentId="7AA9353B-C814-4F49-9FDA-E4EC4A8AD150" ModuleId="IMT.Publisher" />
+  <Module PersistentId="EE22964C-499B-437D-8904-7425A414B57D" ModuleId="IMT.DataSync.Publisher" />
+  <Module PersistentId="6307C0C7-AEF4-473E-9D99-44E2E08D1BF2" ModuleId="IMT.Bus.Tests" />
+  <Module PersistentId="IMT.Billing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="IMT.Billing" />
+  <Module PersistentId="IMT.DAL, Version=1.0.2.13649, Culture=neutral, PublicKeyToken=null" ModuleId="IMT.DAL_2" />
+  <Module PersistentId="IMT.DAL, Version=1.0.2.28396, Culture=neutral, PublicKeyToken=null" ModuleId="IMT.DAL" />
+  <Module PersistentId="IMT.DAL, Version=1.0.2.28760, Culture=neutral, PublicKeyToken=null" ModuleId="IMT.DAL_1" />
+</Modules>

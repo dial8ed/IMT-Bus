@@ -1,0 +1,17 @@
+F:\source\IMT.Bus\app\IMT.DataSync\obj\Debug\ResolveAssemblyReference.cache
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\IMT.DataSync.dll.config
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\IMT.DataSync.dll
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\IMT.DataSync.pdb
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\IMT.Entities.dll
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\log4net.dll
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\NServiceBus.Core.dll
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\NServiceBus.dll
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\NServiceBus.Host.exe
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\IMT.Entities.pdb
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\log4net.xml
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\NServiceBus.Host.pdb
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\StructureMap.pdb
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\StructureMap.xml
+F:\source\IMT.Bus\app\IMT.DataSync\obj\Debug\IMT.DataSync.dll
+F:\source\IMT.Bus\app\IMT.DataSync\obj\Debug\IMT.DataSync.pdb
+F:\source\IMT.Bus\app\IMT.DataSync\bin\Debug\NServiceBus.ObjectBuilder.StructureMap.dll
